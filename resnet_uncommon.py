@@ -16,7 +16,7 @@ from keras.layers import Add
 import os
 
 # from . import get_submodules_from_kwargs
-from imagenet_utils import _obtain_input_shape
+from keras_applications.imagenet_utils import _obtain_input_shape
 
 
 from keras import backend

@@ -12,7 +12,7 @@ from __future__ import division
 from __future__ import print_function
 '''
 
-from imagenet_utils import _obtain_input_shape
+from keras_applications.imagenet_utils import _obtain_input_shape
 
 
 '''

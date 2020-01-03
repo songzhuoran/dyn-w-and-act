@@ -25,8 +25,8 @@ from __future__ import division
 from __future__ import print_function
 '''
 
-import imagenet_utils
-from imagenet_utils import decode_predictions
+from keras.applications import imagenet_utils
+from keras.applications.imagenet_utils import decode_predictions
 from vgg_common import VGG19
 
 

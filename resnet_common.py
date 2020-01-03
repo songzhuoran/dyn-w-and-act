@@ -36,7 +36,7 @@ from __future__ import print_function
 import os
 
 # from . import get_submodules_from_kwargs
-from imagenet_utils import _obtain_input_shape
+from keras_applications.imagenet_utils import _obtain_input_shape
 
 
 '''

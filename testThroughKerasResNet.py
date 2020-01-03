@@ -22,7 +22,7 @@ from keras.callbacks import ModelCheckpoint
 
 import resnet
 import resnet_un
-import resnet_v2
+from keras_applications import resnet_v2
 import vggnet
 import inception
 #import alexnet

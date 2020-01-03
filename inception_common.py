@@ -10,7 +10,7 @@ and that the input preprocessing function is also different (same as Xception).
     http://arxiv.org/abs/1512.00567) (CVPR 2016)
 
 """
-from imagenet_utils import _obtain_input_shape
+from keras_applications.imagenet_utils import _obtain_input_shape
 
 
 '''
