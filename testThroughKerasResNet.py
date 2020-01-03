@@ -109,7 +109,7 @@ def makeModel(
     return model
 
 def dealOutput(
-                out, 
+                out,
                 n, 
                 # labelAns
             ) :
